@@ -28,3 +28,4 @@ for i in st:
 
 i=find_odd_one_out(val)
 print(st[i])
+print("Hello, code executed successfully")
